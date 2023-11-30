@@ -17,4 +17,5 @@ Third component is the website built in html, css and javascript that allows use
 7) HTML/CSS/Javascript for UI
 
 ## Project Demo
-http://localhost:63342/Regression%20Project:%20Bangalore%20property%20price%20prediction/client/app.html?_ijt=jp5d3imiqotae0m79dfv7eal4h&_ij_reload=RELOAD_ON_SAVE
+https://home-price-prediction-3ed5a2802a64.herokuapp.com/
+
